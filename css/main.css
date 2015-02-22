@@ -50,3 +50,22 @@
 	border-bottom: 1px solid #ebebeb;
 	height: 40px;
 }
+
+/*  Top Line */ 
+#top-line {
+	height: 51px;
+	width: 785px;
+	border-bottom: 1px solid #ebebeb;
+}
+
+#top-line #add-btn a img {
+	margin: 18px;
+}
+
+#notification-bar {
+	float: right;
+}
+
+#notification-bar ul li{
+	display: inline-block;
+}
